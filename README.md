@@ -1,6 +1,7 @@
 # TDA-SOCIAL-NETWORK
 
 El repositorio se divide en 4 directorios:
+
 • databases
 • matrix
 • output
@@ -18,12 +19,14 @@ El directorio output contiene los resultados y reports de las pruebas realizadas
 desarrollado. Aquí se encuentran los diagramas de barras y persistencia obtenidos tras el cálculo
 de la persistencia y la similitud entre redes y otros resultados de interés.
 
-Por  ́ultimo, el directorio src contiene el código fuente desarrollado. Este directorio se divide a su
+Por último, el directorio src contiene el código fuente desarrollado. Este directorio se divide a su
 vez en 4 subdirectorios:
+
 • distance
 • persistence
 • similarity
 • sql
+
 Estos directorios funcionan como m ́odulos de Python, por lo que se han de importar para hacer
 uso de sus funciones.
 
