@@ -1,0 +1,16 @@
+*** Antes de la separación en dimensiones ***
+
+Similarity between prueba_db and test_high_index: 0.8944885361552026
+Similarity between prueba_db and test_low_index: 0.8812500000000001
+
+
+*** Después de la separación en demensiones ***
+
+Similarity between prueba_db and test_high_index: 0.9496519136930441
+    + dim_0: 0.9748300595238094
+    + dim_1: 0.8741256815553229
+    + dim_2: 1
+Similarity between prueba_db and test_low_index: 0.7326904213744281
+    + dim_0: 0.87945523036801
+    + dim_1: 0.31861603375527425
+    + dim_2: 1

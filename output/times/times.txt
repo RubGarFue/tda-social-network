@@ -1,0 +1,11 @@
+Time adjacency_matrix for prueba:  8.753442895412444
+Time fast_adjacency_matrix for prueba:  1.1751410603523254
+Time lower_adjacency_matrix for prueba:  1.1053791284561156
+
+Time adjacency_matrix for test_high_index:  8.845007801055909
+Time fast_adjacency_matrix for test_high_index:  1.0682193279266357
+Time lower_adjacency_matrix for test_high_index:  0.9595737457275391
+
+Time adjacency_matrix for test_low_index:  21.311824405193327
+Time fast_adjacency_matrix for test_low_index:  2.1746735692024233
+Time lower_adjacency_matrix for test_low_index:  1.9780885696411132
