@@ -34,10 +34,10 @@ El módulo distance es el encargado de calcular la distancia entre dos usuarios,
 de las matrices de adyacencia y distancia. También contiene la función que calcula los usuarios con
 más actividad en la red.
 
-El modulo persistence contiene las funciones encargadas del cálculo de la persistencia, así como
+El módulo persistence contiene las funciones encargadas del cálculo de la persistencia, así como
 de imprimir los diagramas de barras y persistencia.
 
-El modulo similarity contiene las funciones necesarias para el cálculo de similitud entre dos redes.
+El módulo similarity contiene las funciones necesarias para el cálculo de similitud entre dos redes.
 
-Por ultimo, el módulo sql contiene las funciones encargadas de establecer una conexión con la base
+Por último, el módulo sql contiene las funciones encargadas de establecer una conexión con la base
 de datos y obtener los resultados de las consultas.
