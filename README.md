@@ -9,7 +9,7 @@ El repositorio se divide en 4 directorios:
 
 El directorio databases contiene las bases de datos (en formato sql) utilizadas para la realización
 de las pruebas y funcionalidad del código desarrollado. Este directorio no contiene la base de datos
-original de la que se han extra ́ıdo los datos debido al gran tama ̃no de la misma.
+original de la que se han extraído los datos debido al gran tamaño de la misma.
 
 El directorio matrix contiene las matrices de adyacencia y distancia (en formato csv) creadas
 tras el cálculo de las distancias entre usuarios. Estas matrices son utilizadas para el cálculo de la
