@@ -27,7 +27,7 @@ vez en 4 subdirectorios:
 • similarity
 • sql
 
-Estos directorios funcionan como m ́odulos de Python, por lo que se han de importar para hacer
+Estos directorios funcionan como módulos de Python, por lo que se han de importar para hacer
 uso de sus funciones.
 
 El módulo distance es el encargado de calcular la distancia entre dos usuarios, así como el cálculo
